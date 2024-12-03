@@ -1,1 +1,1 @@
-# JavaScripe
+# JavaScript-02
